@@ -20,3 +20,5 @@ insecure                # Allow all DB writes from clients (for prototyping)
 iron:router
 sacha:spin
 materialize:materialize
+slam310:smooth-scroll
+spiderable

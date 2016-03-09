@@ -16,6 +16,10 @@ body {
   font-size: inherit;
 }
 
+a {
+  cursor: pointer; 
+}
+
 nav {
   position: fixed;
   z-index: 5;
