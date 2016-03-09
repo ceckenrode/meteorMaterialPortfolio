@@ -1,0 +1,81 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+body {
+  background-color: #eceff1;
+}
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+nav {
+  position: fixed;
+  z-index: 5;
+}
+.skillbox {
+  text-align: center;
+}
+.parallax-container {
+  height: 670px;
+}
+@keyframes slide {
+    from {text-align: right;}
+    to {text-align: center;}
+}
+.expand-btn  {
+  text-align: center;
+}
+
+.footer-copyright .container a:link {
+    color: white;
+}
+
+/* visited link */
+.footer-copyright .container a:visited {
+    color: white;
+}
+
+/* mouse over link */
+.footer-copyright .container a:hover {
+    color: white;
+}
+
+/* selected link */
+.footer-copyright .container a:active {
+    color: white;
+}
+
+.call-to {
+ margin-top: -30px;
+}
+
+.about {
+  background-color: #eceff1;
+  padding-top: 30px;
+}
+
+.skills {
+  width: 100%;
+}
+
+.skillset {
+  margin-top: 100px;
+}
+
+.card {
+  margin-top: 20px;
+}
+.call-to i {
+  color: black;
+}
+
+
+
